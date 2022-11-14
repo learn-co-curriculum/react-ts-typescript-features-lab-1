@@ -19,6 +19,7 @@ to fix. Complete your work for this lab there.
 
 To get started:
 
+1. Fork and clone this repository.
 1. Run `npm install` to install all dependencies.
 1. Run `npm start` to run the `src/index.ts` file.
 1. Read through the errors given in your terminal to find out what is wrong with
